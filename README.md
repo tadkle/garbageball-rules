@@ -17,3 +17,4 @@ Pergalė skaičiuojama rato laimėtojui. Žaidžiam iki 2 pergalių.
 Pasibaigus pagrindiniam turnyrui, pralaimėję žaidėjai gali atšaukti pergalę iš kampo. Laimėtojas gali atšaukti atšaukimą įmesdamas iš kampo.
 
 Jei pergalė atšaukiama, laimėtojas praranda 1 pergalę iš pagrindinio turnyro.
+Praradus pergalę visi sugrįžta į turnyrą.
